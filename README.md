@@ -34,6 +34,6 @@ Then open the notebook:
 
     ipython notebook "Key Phrase Extraction with Python.ipynb"
 
-The notebook is tested with both Python 2.7.9 and Python 3.4.3 on OS X 10.10
-and 10.11, but there shouldn't be issues if you run this on a different
+The notebook has been tested with both Python 2.7.9 and Python 3.4.3 on OS X
+10.10 and 10.11, but there shouldn't be issues if you run this on a different
 operating system.
